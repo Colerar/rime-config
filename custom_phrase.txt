@@ -23,6 +23,12 @@
 #
 # 此行之后不能写注释
 
+⌘	cmd	1
+⌥	opt	1
+⌃	ctrl	1
+⇧	shift	1
+⎋	esc	1
+
 噷	hm
 呣	m
 呒	m
