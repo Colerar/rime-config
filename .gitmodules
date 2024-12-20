@@ -1,0 +1,3 @@
+[submodule "others/rime-ipa"]
+	path = others/rime-ipa
+	url = https://github.com/rime/rime-ipa.git
